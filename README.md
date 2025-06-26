@@ -1,2 +1,3 @@
 # Basic_Calculator_1
-Its a beginner level calculator 
+Basic Python Calculator
+This is a basic calculator built in Python. It can perform addition, subtraction, multiplication, division, floor division, and modulo.
